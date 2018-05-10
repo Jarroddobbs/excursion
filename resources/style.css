@@ -1,7 +1,10 @@
 html {
   font-family: verdana;
-  background-color: black;
   text-align: center;
+  background-color:black;
+}
+
+body {
 }
 
 .heading {
@@ -14,4 +17,25 @@ html {
 .download {
   color: aquamarine;
   font-size: 16px;
+}
+
+.guide {
+  font-weight: 300;
+  font size: 42px;
+  color: white;
+}
+
+.places {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer{
+  color: gray;
+  text-align: right;
+  font-size: 21px;
+}
+
+.soon {
+  color: white;
 }
